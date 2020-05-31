@@ -1,4 +1,4 @@
-# SPI-between-STM32-and-Arduino
+# Basic SPI communication between an STM32 master and Arduino slave
 An example of SPI communication from an STM32 master to an Arduino slave
 
 _Ignore the `basic\_leds` project names, I didn't want to deal with refactoring the name throughout the whole project and makefile since CubeMX wouldn't let me alter it._
