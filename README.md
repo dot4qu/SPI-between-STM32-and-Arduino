@@ -1,7 +1,7 @@
 # Basic SPI communication between an STM32 master and Arduino slave
 An example of SPI communication from an STM32 master to an Arduino slave
 
-_Ignore the `basic\_leds` project names, I didn't want to deal with refactoring the name throughout the whole project and makefile since CubeMX wouldn't let me alter it._
+_Ignore the `basic_leds` project names, I didn't want to deal with refactoring the name throughout the whole project and makefile since CubeMX wouldn't let me alter it._
 
 ### Hardware
 STM32F103C8 "blue pill" Cortex-M3 and Arduino Duo. Debugger is an ST-Link/V2.
